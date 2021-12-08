@@ -6,3 +6,4 @@ I don't complete my BSc.
 
 I have started my full stack web development job in 2021.
 I will join at MFile 1st of Jan.
+logo alignment centered.
